@@ -78,11 +78,9 @@ The Project Management System is a full-stack web application that allows users 
     - This project is licensed under the MIT License.
 
 9. Acknowledgments
-    - This project was developed as part of WebHex's internal project management efforts.
+    - This project was developed as part of hackathon named Hack The Mountains 4.0.
     - Contributors
-        - [S.Sridhar](https://github.com/Illuminati9)
-        - [Satvik Garg](https://github.com/Satvik-Garg)
-        - [Himanshu Sharma](https://github.com/Him7n)
-        - [Shreyash](https://github.com/)
-        - [Ramanujan Gunturu](https://github.com/)
-        - [D.Tharun](https://github.com/draksham)
+        - Sambhav Singla
+        - Rishi Rohilla
+        - Satvik Garg
+        - Chhavi Gupta
